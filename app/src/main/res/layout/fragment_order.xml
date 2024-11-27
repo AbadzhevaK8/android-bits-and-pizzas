@@ -102,5 +102,5 @@
         android:layout_gravity="bottom|end"
         android:layout_margin="16dp"
         android:contentDescription="@string/send_order"
-        android:src="@android:drawable/ic_menu_send" />
+        android:src="@drawable/baseline_navigate_next_24" />
 </androidx.coordinatorlayout.widget.CoordinatorLayout>
