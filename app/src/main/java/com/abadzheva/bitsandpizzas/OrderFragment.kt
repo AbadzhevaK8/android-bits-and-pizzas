@@ -11,6 +11,7 @@ import com.abadzheva.bitsandpizzas.databinding.FragmentOrderBinding
 import com.google.android.material.snackbar.Snackbar
 
 class OrderFragment : Fragment() {
+    @Suppress("ktlint:standard:backing-property-naming")
     private var _binding: FragmentOrderBinding? = null
     private val binding get() = _binding!!
 
